@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sustine.github.io/generator_diff/sitemap.xml
